@@ -19,7 +19,7 @@ specificationVersion: '0.20'
 
 created: '2026-09-26'
 
-modified: '2026-09-26'
+modified: '2026-10-06'
 
 tags:
 - Company
@@ -40,6 +40,10 @@ maintainers:
   email: info@apis.io
 
 common:
+- url: https://artly.coffee/blogs/artly-blog
+  type: Blog
+- url: https://artly.coffee/blogs/artly-blog.atom
+  type: BlogRSS
 - type: LLMsTxt
   url: llms/artlycoffee-llms.txt
 - type: WellKnown

@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/artlycoffee/integrations
+- https://n8n.io/integrations/artlycoffee/
+- https://composio.dev/toolkits/artlycoffee
+- https://monid.ai/tools/artlycoffee
+checked:
+- https://composio.dev/toolkits/artlycoffee
+- https://monid.ai/tools/artlycoffee
+- https://n8n.io/integrations/artlycoffee/
+- https://zapier.com/apps/artlycoffee/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
